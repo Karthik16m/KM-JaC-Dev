@@ -13,7 +13,7 @@ exportTable: ops_script
 notes: []
 opswiseGroups:
 - KM-Job-as-Code
-resolveVariables: true
+resolveVariables: false
 retainSysIds: true
 scriptName: KM-jac-regex
 scriptType: Script
